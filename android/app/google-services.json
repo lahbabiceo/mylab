@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055530026537",
+    "project_id": "signal-lab-15d48",
+    "storage_bucket": "signal-lab-15d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055530026537:android:2ffbf7146d038f02aebe38",
+        "android_client_info": {
+          "package_name": "dev.vlab.signal_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055530026537-577tppnrur0eank5d0lqecv2pp9c3pih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARop_QtP1Dx5ftJlJGzB4LN-ElL2e3nwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055530026537-577tppnrur0eank5d0lqecv2pp9c3pih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
